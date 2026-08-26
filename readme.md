@@ -7,3 +7,4 @@ Universidad Autónoma Gabriel René Moreno.
 ## Caso de estudio
 
 Comercializadora Santa Cruz S.R.L.
+Segundo cambio realizado durante la capacitación de Git y GitHub.
