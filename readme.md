@@ -10,3 +10,4 @@ Comercializadora Santa Cruz S.R.L.
 Segundo cambio realizado durante la capacitación de Git y GitHub.
 Veamos como sale este cambio
 Este proyecto está siendo desarrollado con Git y GitHub.
+Esta funcionalidad fue desarrollada en la rama desarrollo.
