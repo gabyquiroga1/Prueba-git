@@ -13,3 +13,4 @@ Este proyecto está siendo desarrollado con Git y GitHub.
 Esta funcionalidad fue desarrollada en la rama desarrollo.
 Práctica de Git y GitHub - modificación 1
 Esto lo estoy haciendo sola
+Estoy aprendiendo a usar git y github
