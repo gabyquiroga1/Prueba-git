@@ -11,3 +11,7 @@ Segundo cambio realizado durante la capacitación de Git y GitHub.
 Veamos como sale este cambio
 Este proyecto está siendo desarrollado con Git y GitHub.
 Esta funcionalidad fue desarrollada en la rama desarrollo.
+Práctica de Git y GitHub - modificación 1
+Esto lo estoy haciendo sola
+Estoy aprendiendo a usar git y github
+Cambio realizado directamente en github
