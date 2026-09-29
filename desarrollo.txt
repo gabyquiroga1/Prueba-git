@@ -1,1 +1,2 @@
 Nueva funcionalidad en desarrollo
+Cambio realizado directamente en github
